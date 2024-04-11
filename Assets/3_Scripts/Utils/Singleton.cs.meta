@@ -1,4 +1,5 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream:Assets/3_Scripts/Utils/Singleton.cs.meta
 guid: 95cdab278e30036479bd3829abf98096
 MonoImporter:
   externalObjects: {}
@@ -9,3 +10,7 @@ MonoImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+=======
+guid: 810976ffe526415e8c4fff111834d1f0
+timeCreated: 1695304515
+>>>>>>> Stashed changes:Assets/Scripts/Singleton.cs.meta
