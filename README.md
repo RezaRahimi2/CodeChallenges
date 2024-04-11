@@ -70,4 +70,6 @@ To expand this class, you could add new methods for managing the states. For exa
 
 Added GuardNPC1 prefab to the scene, based on the name of NPC prefab in the below game objects been created in Scene, To add a new Waypoint click on the “Add a new Waypoint” button as the below images. 
 
-
+1) ![Alt text](https://github.com/RezaRahimi2/CodeChallenges/blob/AIForStealthGame/_Documentation/Images/1.png?raw=true) 2. ![Alt text](https://github.com/RezaRahimi2/CodeChallenges/blob/AIForStealthGame/_Documentation/Images/2.png?raw=true)
+3. ![Alt text](https://github.com/RezaRahimi2/CodeChallenges/blob/AIForStealthGame/_Documentation/Images/3.png?raw=true) 4. ![Alt text](https://github.com/RezaRahimi2/CodeChallenges/blob/AIForStealthGame/_Documentation/Images/4.png?raw=true)
+5) ![Alt text](https://github.com/RezaRahimi2/CodeChallenges/blob/AIForStealthGame/_Documentation/Images/5.png?raw=true)
