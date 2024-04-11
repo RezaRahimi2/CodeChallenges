@@ -1,13 +1,9 @@
 fileFormatVersion: 2
-<<<<<<<< Updated upstream:Assets/1_Graphics/Materials/circle-gradient.png.meta
-guid: 62cce2b50bb93854e8249abcde27c949
-========
 guid: 33967d82c34ccc14abb324fe2a037726
->>>>>>>> Stashed changes:Packages/com.projectdawn.navigation/Gizmos/d_SmartStop@64.png.meta
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
@@ -24,9 +20,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -35,15 +34,6 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-<<<<<<<< Updated upstream:Assets/1_Graphics/Materials/circle-gradient.png.meta
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
-    wrapU: -1
-    wrapV: -1
-    wrapW: -1
-  nPOTScale: 1
-========
     filterMode: 1
     aniso: 1
     mipBias: 0
@@ -51,7 +41,6 @@ TextureImporter:
     wrapV: 1
     wrapW: 0
   nPOTScale: 0
->>>>>>>> Stashed changes:Packages/com.projectdawn.navigation/Gizmos/d_SmartStop@64.png.meta
   lightmap: 0
   compressionQuality: 50
   spriteMode: 0
@@ -68,13 +57,19 @@ TextureImporter:
   textureType: 2
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 128
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -82,15 +77,12 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-<<<<<<<< Updated upstream:Assets/1_Graphics/Materials/circle-gradient.png.meta
-========
     ignorePlatformSupport: 0
->>>>>>>> Stashed changes:Packages/com.projectdawn.navigation/Gizmos/d_SmartStop@64.png.meta
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 128
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -98,28 +90,12 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-<<<<<<<< Updated upstream:Assets/1_Graphics/Materials/circle-gradient.png.meta
-    buildTarget: iPhone
-    maxTextureSize: 128
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 128
-========
     buildTarget: Server
     maxTextureSize: 2048
->>>>>>>> Stashed changes:Packages/com.projectdawn.navigation/Gizmos/d_SmartStop@64.png.meta
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -127,10 +103,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-<<<<<<<< Updated upstream:Assets/1_Graphics/Materials/circle-gradient.png.meta
-========
     ignorePlatformSupport: 0
->>>>>>>> Stashed changes:Packages/com.projectdawn.navigation/Gizmos/d_SmartStop@64.png.meta
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -146,9 +119,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

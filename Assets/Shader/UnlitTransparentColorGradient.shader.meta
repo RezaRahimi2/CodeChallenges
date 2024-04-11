@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<<< Updated upstream:Assets/1_Graphics/Shaders/DiffuseDecal.shader.meta
-guid: d3c20c7395c33e84c8aca45e28bbdbd3
-========
 guid: bcb217f7e8052184397cfd46e4ae8d34
->>>>>>>> Stashed changes:Assets/Shader/UnlitTransparentColorGradient.shader.meta
 ShaderImporter:
   externalObjects: {}
   defaultTextures: []

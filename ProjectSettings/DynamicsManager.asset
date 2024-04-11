@@ -4,11 +4,7 @@
 PhysicsManager:
   m_ObjectHideFlags: 0
   serializedVersion: 13
-<<<<<<< Updated upstream
-  m_Gravity: {x: 0, y: -19.62, z: 0}
-=======
   m_Gravity: {x: 0, y: -9.81, z: 0}
->>>>>>> Stashed changes
   m_DefaultMaterial: {fileID: 0}
   m_BounceThreshold: 2
   m_SleepThreshold: 0.005
@@ -16,12 +12,12 @@ PhysicsManager:
   m_DefaultSolverIterations: 6
   m_DefaultSolverVelocityIterations: 1
   m_QueriesHitBackfaces: 0
-  m_QueriesHitTriggers: 0
+  m_QueriesHitTriggers: 1
   m_EnableAdaptiveForce: 0
   m_ClothInterCollisionDistance: 0.1
   m_ClothInterCollisionStiffness: 0.2
   m_ContactsGeneration: 1
-  m_LayerCollisionMatrix: fffefffffffefffffffefffffffffffffffefffffffeffffffffffffffffffffc8ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+  m_LayerCollisionMatrix: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
   m_AutoSimulation: 1
   m_AutoSyncTransforms: 0
   m_ReuseCollisionCallbacks: 0
@@ -36,9 +32,5 @@ PhysicsManager:
   m_FrictionType: 0
   m_EnableEnhancedDeterminism: 0
   m_EnableUnifiedHeightmaps: 1
-<<<<<<< Updated upstream
-  m_DefaultMaxAngularSpeed: 7
-=======
   m_SolverType: 0
   m_DefaultMaxAngularSpeed: 50
->>>>>>> Stashed changes

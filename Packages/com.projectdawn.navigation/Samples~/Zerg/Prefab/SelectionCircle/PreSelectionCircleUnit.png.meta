@@ -1,11 +1,6 @@
 fileFormatVersion: 2
-<<<<<<<< Updated upstream:Assets/LowPolyWater_Pack/Textures/Foam.tga.meta
-guid: 5fbcffe9c2077f04186883cb39275fcc
-timeCreated: 1474768986
-========
 guid: ee5213eb46eef3c49b3d6b1097a81d97
 timeCreated: 1428073413
->>>>>>>> Stashed changes:Packages/com.projectdawn.navigation/Samples~/Zerg/Prefab/SelectionCircle/PreSelectionCircleUnit.png.meta
 licenseType: Store
 TextureImporter:
   fileIDToRecycleName: {}

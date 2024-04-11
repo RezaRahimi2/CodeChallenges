@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<<< Updated upstream:Packages/AtlasImage-1.0.0/Coffee.AtlasImage.asmdef.meta
-guid: d5e7a20a1041b4f58942a2c878b686ff
-========
 guid: 3607ee9fe32534e4fbbc80defa6f41a4
->>>>>>>> Stashed changes:Packages/com.projectdawn.navigation/ProjectDawn.LocalAvoidance/ProjectDawn.LocalAvoidance.asmdef.meta
 AssemblyDefinitionImporter:
   externalObjects: {}
   userData: 

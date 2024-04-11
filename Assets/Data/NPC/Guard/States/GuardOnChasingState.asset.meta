@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<<< Updated upstream:Assets/4_Misc/ColorblindColorList.asset.meta
-guid: 2d7b60f80aaef884ebf82dde76690d14
-========
 guid: a885d104f8fca2247958a898fa819b5e
->>>>>>>> Stashed changes:Assets/Data/NPC/Guard/States/GuardOnChasingState.asset.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000

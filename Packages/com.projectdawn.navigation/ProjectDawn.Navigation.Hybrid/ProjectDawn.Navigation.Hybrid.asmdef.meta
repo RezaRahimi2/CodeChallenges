@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<<< Updated upstream:Packages/SoftMaskForUGUI-1.0.2/Samples~/Demo/Coffee.SoftMaskForUGUI_Demo.asmdef.meta
-guid: ff8ec454d2eab4891b9064b4f14bb203
-========
 guid: 281035993b2885f4495941ff85a690fa
->>>>>>>> Stashed changes:Packages/com.projectdawn.navigation/ProjectDawn.Navigation.Hybrid/ProjectDawn.Navigation.Hybrid.asmdef.meta
 AssemblyDefinitionImporter:
   externalObjects: {}
   userData: 

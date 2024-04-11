@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<<< Updated upstream:Assets/4_Misc/DefaultColorList.asset.meta
-guid: 0b29bf6c5b2c74347a27dd5f03d2f8f0
-========
 guid: 4913ab41b8cebf1449e571ddc92a3823
->>>>>>>> Stashed changes:Assets/Data/NPC/Guard/States/GuardOnLostPlayerState.asset.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000

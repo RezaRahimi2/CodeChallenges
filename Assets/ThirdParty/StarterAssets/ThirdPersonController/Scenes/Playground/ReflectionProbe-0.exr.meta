@@ -1,11 +1,5 @@
 fileFormatVersion: 2
-<<<<<<<< Updated upstream:Assets/LowPolyWater_Pack/LowPoly Island/textures/textureAmbient_Occlusion.jpg.meta
-guid: b9b487cdf5f0a1446986165bc650935d
-timeCreated: 1513273809
-licenseType: Store
-========
 guid: b65762d7243eb714e903b585ed68a576
->>>>>>>> Stashed changes:Assets/ThirdParty/StarterAssets/ThirdPersonController/Scenes/Playground/ReflectionProbe-0.exr.meta
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -38,21 +32,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-<<<<<<<< Updated upstream:Assets/LowPolyWater_Pack/LowPoly Island/textures/textureAmbient_Occlusion.jpg.meta
-    filterMode: -1
-    aniso: -1
-    mipBias: -1
-    wrapU: -1
-    wrapV: -1
-    wrapW: -1
-========
     filterMode: 2
     aniso: 0
     mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
->>>>>>>> Stashed changes:Assets/ThirdParty/StarterAssets/ThirdPersonController/Scenes/Playground/ReflectionProbe-0.exr.meta
   nPOTScale: 1
   lightmap: 0
   compressionQuality: 50
@@ -95,8 +80,6 @@ TextureImporter:
     sprites: []
     outline: []
     physicsShape: []
-<<<<<<<< Updated upstream:Assets/LowPolyWater_Pack/LowPoly Island/textures/textureAmbient_Occlusion.jpg.meta
-========
     bones: []
     spriteID: 
     internalID: 0
@@ -105,7 +88,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
->>>>>>>> Stashed changes:Assets/ThirdParty/StarterAssets/ThirdPersonController/Scenes/Playground/ReflectionProbe-0.exr.meta
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

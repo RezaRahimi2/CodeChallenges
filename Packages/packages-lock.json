@@ -1,24 +1,5 @@
 {
   "dependencies": {
-<<<<<<< Updated upstream
-    "com.coffee.atlas-image": {
-      "version": "file:AtlasImage-1.0.0",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
-    "com.coffee.softmask-for-ugui": {
-      "version": "file:SoftMaskForUGUI-1.0.2",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
-    "com.unity.2d.sprite": {
-      "version": "1.0.0",
-      "depth": 0,
-      "source": "builtin",
-      "dependencies": {}
-=======
     "com.projectdawn.navigation": {
       "version": "file:com.projectdawn.navigation",
       "depth": 0,
@@ -46,10 +27,9 @@
         "com.unity.mathematics": "1.2.1"
       },
       "url": "https://packages.unity.com"
->>>>>>> Stashed changes
     },
     "com.unity.cinemachine": {
-      "version": "2.8.9",
+      "version": "2.9.7",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -58,21 +38,12 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.collab-proxy": {
-<<<<<<< Updated upstream
-      "version": "2.2.0",
-=======
       "version": "2.0.7",
->>>>>>> Stashed changes
       "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-<<<<<<< Updated upstream
-    "com.unity.ext.nunit": {
-      "version": "1.0.6",
-      "depth": 0,
-=======
     "com.unity.collections": {
       "version": "2.1.4",
       "depth": 2,
@@ -106,17 +77,12 @@
     "com.unity.ext.nunit": {
       "version": "1.0.6",
       "depth": 1,
->>>>>>> Stashed changes
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.rider": {
-<<<<<<< Updated upstream
-      "version": "3.0.26",
-=======
       "version": "3.0.24",
->>>>>>> Stashed changes
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -125,11 +91,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.visualstudio": {
-<<<<<<< Updated upstream
-      "version": "2.0.22",
-=======
       "version": "2.0.18",
->>>>>>> Stashed changes
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -140,8 +102,6 @@
     "com.unity.ide.vscode": {
       "version": "1.2.5",
       "depth": 0,
-<<<<<<< Updated upstream
-=======
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -165,7 +125,6 @@
     "com.unity.nuget.mono-cecil": {
       "version": "1.11.4",
       "depth": 2,
->>>>>>> Stashed changes
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -243,8 +202,6 @@
       },
       "url": "https://packages.unity.com"
     },
-<<<<<<< Updated upstream
-=======
     "com.unity.test-framework.performance": {
       "version": "3.0.2",
       "depth": 2,
@@ -255,7 +212,6 @@
       },
       "url": "https://packages.unity.com"
     },
->>>>>>> Stashed changes
     "com.unity.textmeshpro": {
       "version": "3.0.6",
       "depth": 0,
@@ -266,11 +222,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.timeline": {
-<<<<<<< Updated upstream
-      "version": "1.6.5",
-=======
       "version": "1.7.5",
->>>>>>> Stashed changes
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -290,8 +242,6 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
-<<<<<<< Updated upstream
-=======
     "com.unity.visualscripting": {
       "version": "1.9.0",
       "depth": 0,
@@ -302,7 +252,6 @@
       },
       "url": "https://packages.unity.com"
     },
->>>>>>> Stashed changes
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
@@ -434,17 +383,6 @@
     "com.unity.modules.uielements": {
       "version": "1.0.0",
       "depth": 0,
-      "source": "builtin",
-      "dependencies": {
-        "com.unity.modules.ui": "1.0.0",
-        "com.unity.modules.imgui": "1.0.0",
-        "com.unity.modules.jsonserialize": "1.0.0",
-        "com.unity.modules.uielementsnative": "1.0.0"
-      }
-    },
-    "com.unity.modules.uielementsnative": {
-      "version": "1.0.0",
-      "depth": 1,
       "source": "builtin",
       "dependencies": {
         "com.unity.modules.ui": "1.0.0",
