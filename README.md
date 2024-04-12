@@ -111,7 +111,7 @@ This Unity C# script defines a static class called `Extentions` that contains ex
 
 (Note: The script does not contain properties or fields, so they are not included in the documentation.)
 
-# Struct
+## Struct
 
 This script defines several structs related to tile textures, tile texture lists, and neighbors in a Minesweeper game. It includes the `TileTexture`, `TileTextureList`, and `Neighbour` structs.
 
