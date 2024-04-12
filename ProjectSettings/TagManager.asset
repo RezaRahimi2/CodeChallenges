@@ -4,9 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Sliceable
-  - Scraper
-  - Spiral
+  - FxTemporaire
+  - Ground
+  - FinalPlayform
   layers:
   - Default
   - TransparentFX
@@ -14,11 +14,11 @@ TagManager:
   - 
   - Water
   - UI
-  - Spiral
-  - Surface
-  - Collect
-  - Prize
-  - Obstacle
+  - Ground
+  - Platform
+  - 
+  - 
+  - 
   - 
   - 
   - 

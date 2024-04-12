@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameSceneStickMan.unity
+    guid: bd4d7409ab786334c9fa40be636e3105
   m_configObjects: {}
