@@ -1,28 +1,8 @@
-# Table of Contents
+## Assignment:
+1. Implemented an Unity Editor tool to automatically configure prefabs in the project.
+2. Implemented a Lucy Wheel daily bonus mini-game.
+3. Designed an Architecture of simple Minesweeper game using MVP.
 
-- [Task 1](#PrefabsDataChanger)
-    - [PrefabsDataChanger](#PrefabsDataChanger)
-- [Task 2](#MiniGameManager)
-    - [MiniGameManager](#MiniGameManager)
-    - [MiniGameUIManager](#MiniGameUIManager)
-    - [LuckyWheelController](#LuckyWheelController)
-    - [LuckyWheelGiftItemView](#LuckyWheelGiftItemView)
-    - [MultiplyInfoUI](#MultiplyInfoUI)
-    - [ObstacleObject](#ObstacleObject)
-    - [MiniGameName](#MiniGameName)
-    - [LuckyWheelEditor](#LuckyWheelEditor)
-- [Task 3](#MiniGameManager)
-    - [MiniGameManager](#MiniGameManager)
-    - [MiniGameUIManager](#MiniGameUIManager)
-    - [GameManager](#GameManager)
-    - [GridManager](#GridManager)
-    - [TileType](#TileType)
-    - [Extentions](#Extentions)
-    - [Struct](#Struct)
-    - [DataScriptableObject](#DataScriptableObject)
-
-
------
 # Task 1
 
 ## PrefabsDataChanger
