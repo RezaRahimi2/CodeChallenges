@@ -2,7 +2,7 @@
 1. Clone the Spiral Roll game mechanic in the unity.
 
 ### Gameplay
-[![Video Title](http://i3.ytimg.com/vi/jCoAHTjV38g/hqdefault.jpg)](https://www.youtube.com/shorts/ZP6opnEiLNk)
+[![Video Title](https://github.com/RezaRahimi2/CodeChallenges/blob/SpiralRollClone/_Documentation/Thumbnail.png?raw=true)](https://www.youtube.com/shorts/ZP6opnEiLNk)
 ---------------------------------------------------------------------------------------------------------------
 
 ### Documentation: 
