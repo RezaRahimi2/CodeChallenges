@@ -1,8 +1,12 @@
+## Assignment:
+1. Reduce the Batches and optimize the game
+2. Implement a mission and reward system to add new missions and rewards in the unity editor.
+
 ## Task 1:
 ### -Reduce the batches:
-- creating an atlas image using Unity Atlas Packer v2. To achieve this,I used the AtlasImage-1.0.0(https://github.com/mob-sakai/AtlasImage) package, which allows us to select sprites from the atlas in the Unity editor. Additionally, I implement a SpriteManager class to handle the retrieval of sprites for mission and reward icons.
+- creating an Atlas image using Unity Atlas Packer v2. To achieve this, I used the AtlasImage-1.0.0(https://github.com/mob-sakai/AtlasImage) package, which allows us to select sprites from the atlas in the Unity editor. Additionally, I implement a SpriteManager class to handle the retrieval of sprites for mission and reward icons.
 
-- also I use Enable GPU Instancing feature in Materials .
+- also I use the Enable GPU Instancing feature in Materials.
 
 [![Video Title](http://i3.ytimg.com/vi/OZY6aPJodYk/hqdefault.jpg)](https://www.youtube.com/watch?v=OZY6aPJodYk)
 
