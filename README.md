@@ -1,7 +1,14 @@
 ## Assignment:
-1. Implemented an Unity Editor tool to automatically configure prefabs in the project.
+1. Implemented a Unity Editor tool to automatically configure prefabs in the project.
 2. Implemented a Lucy Wheel daily bonus mini-game.
-3. Designed an Architecture of simple Minesweeper game using MVP.
+3. Designed an Architecture of a simple Minesweeper game using MVP.
+
+### Prefab Unity Editor Tool
+[![Video Title](http://i3.ytimg.com/vi/WK7JwM2L1O8/hqdefault.jpg)](https://www.youtube.com/watch?v=WK7JwM2L1O8)
+### Daily Bonus Lukey Wheel
+[![Video Title](http://i3.ytimg.com/vi/UExpoKfdtwQ/hqdefault.jpg)](https://youtu.be/UExpoKfdtwQ)
+### Architecture of simple Minesweeper game
+![Alt text](https://github.com/RezaRahimi2/CodeChallenges/blob/PDAssessmentTest/_Documentation/ClassDiagram.jpg?raw=true "a title")
 
 # Task 1
 
