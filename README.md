@@ -1,12 +1,8 @@
 ## Assignment:
-1. Clone the Helix Jump game mechanic in unity.
-2. Implemented a Level Design editor tool.
+1. Clone the Spiral Roll game mechanic in the unity.
 
 ### Gameplay
-[![Video Title](http://i3.ytimg.com/vi/jCoAHTjV38g/hqdefault.jpg)](https://youtu.be/jCoAHTjV38g)
----------------------------------------------------------------------------------------------------------------
-### Level Design editor tool
-[![Video Title](http://i3.ytimg.com/vi/U226a1yfAVM/hqdefault.jpg)](https://youtu.be/U226a1yfAVM)
+[![Video Title](http://i3.ytimg.com/vi/jCoAHTjV38g/hqdefault.jpg)](https://www.youtube.com/shorts/ZP6opnEiLNk)
 ---------------------------------------------------------------------------------------------------------------
 
 ### Documentation: 
