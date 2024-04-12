@@ -1,6 +1,6 @@
 ## Assignment:
-1. Clone the Helix Jump game mechanic in unity.
-2. Implemented a Level Design editor tool.
+1. Clone the Helix Jump game mechanic in Unity.
+2. Implement a Level Design editor tool.
 
 ### Gameplay
 [![Video Title](http://i3.ytimg.com/vi/jCoAHTjV38g/hqdefault.jpg)](https://youtu.be/jCoAHTjV38g)
