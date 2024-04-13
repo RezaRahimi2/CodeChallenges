@@ -1,0 +1,19 @@
+{
+    "name": "ExtensionAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bda984b32d4892a41ae08cf07cb8c2fe"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll",
+        "Newtonsoft.Json.Schema.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

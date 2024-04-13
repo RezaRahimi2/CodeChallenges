@@ -1,0 +1,17 @@
+{
+    "name": "ModelAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bda984b32d4892a41ae08cf07cb8c2fe",
+        "GUID:f7322355aade81b4789d04ce767d36b3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

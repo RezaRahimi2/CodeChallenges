@@ -1,0 +1,20 @@
+{
+    "name": "NetworkAssembly",
+    "rootNamespace": "",
+    "references": [
+        "Data",
+        "BestHTTP",
+        "ModelAssembly",
+        "GeneralAssembly",
+        "ExtensionAssembly"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

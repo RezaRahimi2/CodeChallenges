@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af2f8c0352110cc468c14a0b7ac3c64e, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  HostUrl: https://x8ki-letl-twmt.n7.xano.io/api:_FeF5cm8/
+  PREFS_SECRET_KEY: game_secret_key
+  PREFS_PROFILE_DATA: user_profile_data
+  GameID: -1
+  ProfileAvatarPlaceholder: {fileID: 0}
+  UserModelSchemaJson: "{\r\n                                              'type':
+    'object',\r\n                                              'properties': {\r\n                                               
+    'uid': {'type': 'integer'},\r\n                                               
+    'us': {'type': 'boolean'},\r\n                                               
+    'uc': {'type': 'string'}\r\n                                              },\r\n                                              
+    'required': ['uid','us','uc']\r\n                                           
+    }"
