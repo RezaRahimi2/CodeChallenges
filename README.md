@@ -1,21 +1,14 @@
 ## Assignment:
-Your task is to create a Unity scene that encompasses several key aspects of Unity development. You will be
-responsible for building a game scene with a user interface, simple animations, interactions, and
+Your task is to create a Unity scene that encompasses several key aspects of Unity development.</br>
+You will be responsible for building a game scene with a user interface, simple animations, interactions, and</br>
 integrating Unity's Addressables system.
-Expected Output
-Design a single Unity scene that combines the following features:
-● A simple UI with a Roll button to roll a virtual die and a Reset button to
-return the chip to its initial position.
-● A Ludo board game layout with a single game piece (chip) on one of the
-starting positions.
-● When the Roll button is clicked, display a simple animation of the die
-rolling, fetch a random number from an online service and show the final
-number obtained from the die roll.
-● When the chip is tapped, move the chip to the appropriate position based
-on the last die roll.
-● Integrate Unity's Addressables system into the scene. You can load the
-images of the die and chip.
-
+### Expected Output
+Design a single Unity scene that combines the following features:</br>
+● A simple UI with a Roll button to roll a virtual die and a Reset button to return the chip to its initial position.</br>
+● A Ludo board game layout with a single game piece (chip) on one of the starting positions.</br>
+● When the Roll button is clicked, display a simple animation of the die rolling, fetch a random number from an online service, and show the final number obtained from the die roll.</br>
+● When the chip is tapped, move the chip to the appropriate position based on the last die roll.</br>
+● Integrate Unity's Addressables system into the scene. You can load the images of the die and chip.
 
 ### Gameplay
 [![Video Title](http://i3.ytimg.com/vi/_b4yToZ-Nqo/hqdefault.jpg)](https://youtu.be/_b4yToZ-Nqo)
@@ -59,7 +52,7 @@ PlayerBotSetter: This is a list of boolean values that determine whether each pl
 #### Methods
 SetPlayerNumber(int number): This method sets the number of players in the game.
 SetNumberOfChips(int number): This method sets the number of chips each player has.
-SetPlayerBotSetter(List<bool> botSetter): This method sets which players are AI. The botSetter parameter is a list of boolean values, where true indicates an AI player and false indicates a human player.
+SetPlayerBotSetter(List<bool> botSetter): This method sets which players are AI. The bot Setter parameter is a list of boolean values, where true indicates an AI player and false indicates a human player.
 
 ### GameViewManager
 The GameViewManager class is a key component of the game's architecture. It serves as the central hub for managing the visual representation of the game's state and orchestrating interactions between different visual elements.
