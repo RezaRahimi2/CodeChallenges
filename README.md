@@ -15,7 +15,7 @@
 ## Manager
 An abstract class with no parameters. It has an abstract method `Initialize` with no parameters.
 
-## Manager<T>
+## Manager < T >
 An abstract class with one generic parameter `T`. It has an abstract method `Initialize` with one parameter of type `T`.
 
 ## Manager<T, T1>
