@@ -1,5 +1,5 @@
 ## Assignment:
-1. g, build a diagram of your project and class structure.</br>
+1. build a diagram of your project and class structure.</br>
 2. Keep the public references count to a minimum.</br>
 3. Use as many events/listeners and OOP properly.</br>
 
@@ -8,7 +8,7 @@
 --------------------------------------------------------------------------------------------------------------
 
 # Class Diagram
-
+![Alt text](https://github.com/RezaRahimi2/CodeChallenges/blob/LightsaberParry3D/_Documentation/ClassDiagram.jpg?raw=true "Class Diagram")
 
 # Documentation
 
