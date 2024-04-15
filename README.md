@@ -1,6 +1,6 @@
 # Coding Portfolio:
 
-I Implemented the below projects as code assessments and code challenges.
+I Implemented the below projects as code assessments and code challenges over the past 3 years.
 
 ## Tower Of Colors Mission and Reward System
 [Link](https://github.com/RezaRahimi2/CodeChallenges/tree/ToC)
@@ -25,3 +25,12 @@ I Implemented the below projects as code assessments and code challenges.
 
 ## Jump Race Clone
 [Link](https://github.com/RezaRahimi2/CodeChallenges/tree/JumpRaceClone)
+
+## Stack Runner
+[Link](https://github.com/RezaRahimi2/CodeChallenges/tree/StackRunner)
+
+## IM Skill Challenge
+[Link](https://github.com/RezaRahimi2/CodeChallenges/tree/IMSkillsChallenge)
+
+## Lightsaber Parry 3D
+[Link](https://github.com/RezaRahimi2/CodeChallenges/tree/LightsaberParry3D)
